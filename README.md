@@ -1,1 +1,1 @@
-# DBMS
+# E-commerce Database Management System
